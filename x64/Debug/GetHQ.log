@@ -1,0 +1,13 @@
+﻿Build started 2016/12/20 13:07:06.
+     1>Project "D:\QtProject-Local\GetHQ\GetHQ.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\QtProject-Local\GetHQ\x64\Debug\\GetHQ.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.3.2\5.3\msvc2013_64\lib /LIBPATH:"D:\QtProject-Local\GetHQ\\" /LIBPATH:C:\qt\qt5.3.2\5.3\msvc2013_64\lib /LIBPATH:F:\ems\libsodium_vc120.0.5.0.0\build\native\bin\ /LIBPATH:F:\ems\libzmq_vc120.4.2.0.0\build\native\bin\ "D:\QtProject-Local\GetHQ\\thostmduserapi.lib" C:\Qt\Qt5.3.2\5.3\msvc2013_64\lib\Qt5Sqld.lib C:\Qt\Qt5.3.2\5.3\msvc2013_64\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib advapi32.lib crypt32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\QtProject-Local\GetHQ\x64\Debug\GetHQ.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X64 "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" x64\Debug\hello.obj
+         x64\Debug\main.obj
+         x64\Debug\mycthostftdcmdspi.obj
+         x64\Debug\test.obj
+         GetHQ.vcxproj -> D:\QtProject-Local\GetHQ\x64\Debug\GetHQ.exe
+     1>Done Building Project "D:\QtProject-Local\GetHQ\GetHQ.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.68
